@@ -14,7 +14,7 @@ $ git clone git://github.com/tinyos/tinyos-main.git
 
 # Instalando tools.
 
-$ cd tinyos-main/tools
+$ cd tinyos-main/tools <br />
 $ ./Bootstrap
 $ ./configure
 $ make
