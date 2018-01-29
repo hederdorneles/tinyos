@@ -9,12 +9,13 @@ $ sudo apt install avrdude avr-libc gcc-avr avrdude binutils-avr
 
 Obtendo do repositório do GitHub.
 
-cd /opt
-git clone git://github.com/tinyos/tinyos-main.git
+$ cd /opt
+$ git clone git://github.com/tinyos/tinyos-main.git
 
 # Instalando tools.
-cd tinyos-main/tools
-./Bootstrap
-./configure
-make
-make install
+
+$ cd tinyos-main/tools
+$ ./Bootstrap
+$ ./configure
+$ make
+$ make install
