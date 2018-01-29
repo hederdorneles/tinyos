@@ -5,17 +5,17 @@ e também os seus fontes, necessários para a geração das imagens do SO.
 
 ## Install
 
-$ sudo apt install avrdude avr-libc gcc-avr avrdude binutils-avr 
+$ sudo apt install avrdude avr-libc gcc-avr avrdude binutils-avr  <br />
 
 Obtendo do repositório do GitHub.
 
-$ cd /opt
-$ git clone git://github.com/tinyos/tinyos-main.git
+$ cd /opt <br />
+$ git clone git://github.com/tinyos/tinyos-main.git <br />
 
-# Instalando tools.
+# Instalando tools. <br />
 
 $ cd tinyos-main/tools <br />
-$ ./Bootstrap
-$ ./configure
-$ make
-$ make install
+$ ./Bootstrap <br />
+$ ./configure <br />
+$ make <br />
+$ make install <br />
