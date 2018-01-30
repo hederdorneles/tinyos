@@ -1,7 +1,8 @@
 # tinyos
 
-O tinyos é dividido em duas parte, as ferramentas para compilação e etc, 
-e também os seus fontes, necessários para a geração das imagens do SO.
+O tinyos é dividido em duas parte, as ferramentas para compilação e etc (tinyos-tools), 
+e também os seus fontes (tinyos-source), necessários para a geração das imagens do SO.
+Obtendo do repositório já temos as duas partes sendo necessário apenas a compilação.
 
 ## Install
 
